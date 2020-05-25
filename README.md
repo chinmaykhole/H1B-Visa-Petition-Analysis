@@ -3,8 +3,9 @@ The goal of the project is to analyse the H-1B visa petition data for the past 5
 exploratory analysis and predictive model on the same.
 This includes all the petitions filed for H-1B from 2015 to 2019.
 
+
 There are multiple categories on which it depends if a petition gets certified or denied.
-The basic parameters for a petition to be eligible to get certified are:
+*The basic parameters for a petition to be eligible to get certified are:*
 
 ● Someone needs to have found a job in the U.S.
 
@@ -19,7 +20,8 @@ The basic parameters for a petition to be eligible to get certified are:
 ● Job position needs to be advertised online, local newspapers etc.
 Not to mention other requirements.
 
-Was this project a Success? 
+
+*Was this project a Success? *
 The project was to an extent a success as we were able to implement the majority of the things
 that we had planned for, however initially had a plan to fit the data to a decision tree model to
 predict the case status of a new case based on it’s feature parameters (Columns). But as it
@@ -36,7 +38,8 @@ columns were added as and how we went ahead in terms of years from 2015 to 2019.
 Data cleaning steps are as below (Kindly refer to the python notebook shared for the code):
 
 
-General findings about the data we analyzed (Details in the Notebook):
+
+*General findings about the data we analyzed (Details in the Notebook):*
 
 ● Number of applications keeps fluctuating throughout the years. Maximum applications in
 the year 2019.
