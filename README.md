@@ -7,10 +7,10 @@ There are multiple categories on which it depends if a petition gets certified o
 The basic parameters for a petition to be eligible to get certified are:
 ● Someone needs to have found a job in the U.S.
 ● Employer agrees to sponsor an H-1B petition (working visa), who also pays the
-application fees, attorney, plus other paperwork hassles.
+	application fees, attorney, plus other paperwork hassles.
 ● The employee needs to have the appropriate expertise/education.
 ● Salary offered for that job needs to match the average wage for that particular job and
-that particular job in that area.
+	that particular job in that area.
 ● Job position needs to be advertised online, local newspapers etc.
 Not to mention other requirements.
 
