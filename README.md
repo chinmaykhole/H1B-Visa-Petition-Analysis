@@ -5,6 +5,7 @@ This includes all the petitions filed for H-1B from 2015 to 2019.
 
 There are multiple categories on which it depends if a petition gets certified or denied.
 The basic parameters for a petition to be eligible to get certified are:
+
 ● Someone needs to have found a job in the U.S.
 
 ● Employer agrees to sponsor an H-1B petition (working visa), who also pays the
@@ -36,16 +37,22 @@ Data cleaning steps are as below (Kindly refer to the python notebook shared for
 
 
 General findings about the data we analyzed (Details in the Notebook):
+
 ● Number of applications keeps fluctuating throughout the years. Maximum applications in
 the year 2019.
+
 ● CA, NJ and TX are the states from where most of the applications are.
+
 ● If we consider the states which have filed more than 150,000 applications in the last five
 years cumulative and check their petition trend yearly, only CA has constant growth in
 the number of filed petitions throughout the years. Other states have fluctuating number
 of applications.
+
 ● The highest petition filing employers are considerably different from highest paying
 employers.
+
 ● There is not much linkage between the case status getting certified or Denied with the
 JOB_TITLE and job type as Full time or part time.
+
 
 I want to thank Sharan Naribole for this amazing topic he shared on Kaggle. 
