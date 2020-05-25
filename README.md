@@ -1,7 +1,7 @@
 # H1B-Visa-Petition-Analysis
 The goal of the project is to analyse the H-1B visa petition data for the past 5 years and perform
 exploratory analysis and predictive model on the same.
-This includes all the petitions filed for H-1B from 2011 to 2016.
+This includes all the petitions filed for H-1B from 2015 to 2019.
 
 There are multiple categories on which it depends if a petition gets certified or denied.
 The basic parameters for a petition to be eligible to get certified are:
@@ -43,3 +43,5 @@ of applications.
 employers.
 ● There is not much linkage between the case status getting certified or Denied with the
 JOB_TITLE and job type as Full time or part time.
+
+I want to thank Sharan Naribole for this amazing topic he shared on Kaggle. 
